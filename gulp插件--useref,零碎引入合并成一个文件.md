@@ -6,6 +6,8 @@ tags: gulp
 ### 使用场景</br>
 当js、css引用过多时,请求次数过多。</br>
 ### 如何使用 </br>
+
+    $ yarn add gulp-ueref
 在html中添加标记
 
     <!-- build:<type> <path> <parameters> -->
